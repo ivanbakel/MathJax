@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/output/CommonHTML/config.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.OutputJax.CommonHTML=MathJax.OutputJax({id:"CommonHTML",version:"2.7.0",directory:MathJax.OutputJax.directory+"/CommonHTML",extensionDir:MathJax.OutputJax.extensionDir+"/CommonHTML",autoloadDir:MathJax.OutputJax.directory+"/CommonHTML/autoload",fontDir:MathJax.OutputJax.directory+"/CommonHTML/fonts",webfontDir:MathJax.OutputJax.fontDir+"/HTML-CSS",config:{matchFontHeight:true,scale:100,minScaleAdjust:50,mtextFontInherit:false,undefinedFamily:"STIXGeneral,'Cambria Math','Arial Unicode MS',serif",EqnChunk:(MathJax.Hub.Browser.isMobile?20:100),EqnChunkFactor:1.5,EqnChunkDelay:100,linebreaks:{automatic:false,width:"container"}}});if(!MathJax.Hub.config.delayJaxRegistration){MathJax.OutputJax.CommonHTML.Register("jax/mml")}MathJax.OutputJax.CommonHTML.loadComplete("config.js");
+//@license-end

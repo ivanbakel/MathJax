@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/oc/oc.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("oc",null,{menuTitle:"occitan",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{MathProcessingError:"Error de tractament de la formula matematica",MathError:"Error dins la formula matematica",LoadFile:"Telecargament de %1",Loading:"Cargament",LoadFailed:"Frac\u00E0s del telecargament de %1",ProcessMath:"Tractament de las formulas : %1%%",Processing:"Tractament",TypesetMath:"Composicion de las formulas : %1%%",Typesetting:"Composicion",MathJaxNotSupported:"V\u00F2stre navigador sup\u00F2rta pas MathJax"}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){if(a===1){return 1}return 2},number:function(a){return a}});MathJax.Ajax.loadComplete("[MathJax]/localization/oc/oc.js");
+//@license-end

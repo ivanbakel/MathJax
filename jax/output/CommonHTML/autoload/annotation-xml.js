@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/output/CommonHTML/autoload/annotation-xml.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Hub.Register.StartupHook("CommonHTML Jax Ready",function(){var c="2.7.0";var a=MathJax.ElementJax.mml,b=MathJax.OutputJax.CommonHTML;a["annotation-xml"].Augment({toCommonHTML:function(e){var d=this.Get("encoding");e=this.CHTMLdefaultNode(e,{childOptions:{encoding:d}});if(this.CHTML.rscale!==1){this.CHTML.rescale(1/this.CHTML.rscale)}return e}});a.xml.Augment({toCommonHTML:function(l,g){var n=this.CHTML=b.BBOX.zero();for(var j=0,d=this.data.length;j<d;j++){l.appendChild(this.data[j].cloneNode(true))}var e=l.offsetWidth,k=l.offsetHeight;var f=b.addElement(l,"mjx-hd-test",{style:{height:k+"px"}});n.d=n.b=(l.offsetHeight-k)/b.em;n.w=n.r=e/b.em;n.h=n.t=k/b.em-n.d;l.removeChild(f)}});MathJax.Hub.Startup.signal.Post("CommonHTML annotation-xml Ready");MathJax.Ajax.loadComplete(b.autoloadDir+"/annotation-xml.js")});
+//@license-end

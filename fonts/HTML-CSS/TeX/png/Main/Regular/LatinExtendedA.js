@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/fonts/HTML-CSS/TeX/png/Main/Regular/LatinExtendedA.js
  *  
@@ -14,3 +15,4 @@
 
 MathJax.OutputJax["HTML-CSS"].defineImageData({MathJax_Main:{305:[[2,3,0],[3,4,0],[3,5,0],[3,5,0],[4,6,0],[5,8,0],[5,9,0],[6,11,0],[8,13,0],[9,15,0],[10,18,0],[12,21,0],[15,25,0],[17,30,0]]}});MathJax.Ajax.loadComplete(MathJax.OutputJax["HTML-CSS"].imgDir+"/Main/Regular"+MathJax.OutputJax["HTML-CSS"].imgPacked+"/LatinExtendedA.js");
 
+//@license-end

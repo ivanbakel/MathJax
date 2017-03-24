@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/cy/cy.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("cy",null,{menuTitle:"Cymraeg",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{MathProcessingError:"Gwall prosesu mathemateg",MathError:"Gwall mathemategol",LoadFile:"Yn llwytho %1",Loading:"Yn llwytho",LoadFailed:"Methwyd llwytho'r ffeil: %1",ProcessMath:"Prosesu'r math'g: %1%%",Processing:"Yn prosesu",TypesetMath:"Yn gosod fformat i'r math'g: %1%%",Typesetting:"Yn gosod fformat",MathJaxNotSupported:"'Dyw eich porwr ddim yn cynnal MathJax"}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){if(a===1){return 1}return 2},number:function(a){return a}});MathJax.Ajax.loadComplete("[MathJax]/localization/cy/cy.js");
+//@license-end

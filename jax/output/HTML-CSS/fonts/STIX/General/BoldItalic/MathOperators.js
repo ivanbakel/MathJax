@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/output/HTML-CSS/fonts/STIX/General/BoldItalic/MathOperators.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Hub.Insert(MathJax.OutputJax["HTML-CSS"].FONTDATA.FONTS["STIXGeneral-bold-italic"],{8706:[686,10,559,44,559],8722:[297,-209,606,51,555]});MathJax.Ajax.loadComplete(MathJax.OutputJax["HTML-CSS"].fontDir+"/General/BoldItalic/MathOperators.js");
+//@license-end

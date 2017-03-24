@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/extensions/TeX/autobold.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Extension["TeX/autobold"]={version:"2.7.0"};MathJax.Hub.Register.StartupHook("TeX Jax Ready",function(){var a=MathJax.InputJax.TeX;a.prefilterHooks.Add(function(d){var c=d.script.parentNode.insertBefore(document.createElement("span"),d.script);c.visibility="hidden";c.style.fontFamily="Times, serif";c.appendChild(document.createTextNode("ABCXYZabcxyz"));var b=c.offsetWidth;c.style.fontWeight="bold";if(b&&c.offsetWidth===b){d.math="\\boldsymbol{"+d.math+"}"}c.parentNode.removeChild(c)});MathJax.Hub.Startup.signal.Post("TeX autobold Ready")});MathJax.Ajax.loadComplete("[MathJax]/extensions/TeX/autobold.js");
+//@license-end

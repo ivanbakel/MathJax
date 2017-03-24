@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/scn/scn.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("scn",null,{menuTitle:"sicilianu",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{MathProcessingError:"Erruri nt\u00E2 labburazzioni d\u00EE f\u00F2rmuli matim\u00E0tichi",MathError:"Erruri nt\u00E2 matim\u00E0tica",LoadFile:"Carricamentu di %1",Loading:"Carricamentu",LoadFailed:"Nun arrinisc\u00ECu lu carricamentu di: %1",ProcessMath:"Labburazzioni d\u00EE f\u00F2rmuli matim\u00E0tichi: %1%%",Processing:"Labburazzioni",TypesetMath:"Mpagginazzioni d\u00EE f\u00F2rmuli matim\u00E0tichi: %1%%",Typesetting:"Mpagginazzioni",MathJaxNotSupported:"Lu t\u00F2 browser nun supporta MathJax"}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){if(a===1){return 1}return 2},number:function(a){return String(a).replace(".",",")}});MathJax.Ajax.loadComplete("[MathJax]/localization/scn/scn.js");
+//@license-end

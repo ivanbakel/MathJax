@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/output/HTML-CSS/fonts/STIX/IntegralsSm/Regular/Main.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.OutputJax["HTML-CSS"].FONTDATA.FONTS.STIXIntegralsSm={directory:"IntegralsSm/Regular",family:"STIXIntegralsSm",Ranges:[[32,32,"All"],[160,160,"All"],[8747,8755,"All"],[10763,10780,"All"]],8747:[690,189,496,41,552],8750:[690,189,560,41,552]};MathJax.OutputJax["HTML-CSS"].initFont("STIXIntegralsSm");MathJax.Ajax.loadComplete(MathJax.OutputJax["HTML-CSS"].fontDir+"/IntegralsSm/Regular/Main.js");
+//@license-end

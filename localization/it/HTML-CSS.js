@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/it/HTML-CSS.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("it","HTML-CSS",{version:"2.7.0",isLoaded:true,strings:{LoadWebFont:"Caricamento web-font %1",CantLoadWebFont:"Impossibile caricare il web font %1",FirefoxCantLoadWebFont:"Firefox non pu\u00F2 scaricare i web font dal server remoto",CantFindFontUsing:"Impossibile trovare un font valido tra %1",WebFontsNotAvailable:"Web font non disponibili -- font immagini in uso"}});MathJax.Ajax.loadComplete("[MathJax]/localization/it/HTML-CSS.js");
+//@license-end

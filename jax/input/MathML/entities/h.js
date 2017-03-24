@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/input/MathML/entities/h.js
  *
@@ -17,3 +18,4 @@
  */
 
 (function(a){MathJax.Hub.Insert(a.Parse.Entity,{HARDcy:"\u042A",Hcirc:"\u0124",HilbertSpace:"\u210B",HorizontalLine:"\u2500",Hstrok:"\u0126",hArr:"\u21D4",hairsp:"\u200A",half:"\u00BD",hamilt:"\u210B",hardcy:"\u044A",harr:"\u2194",harrcir:"\u2948",hcirc:"\u0125",hearts:"\u2665",heartsuit:"\u2665",hercon:"\u22B9",hksearow:"\u2925",hkswarow:"\u2926",hoarr:"\u21FF",homtht:"\u223B",horbar:"\u2015",hslash:"\u210F",hstrok:"\u0127",hybull:"\u2043",hyphen:"\u2010"});MathJax.Ajax.loadComplete(a.entityDir+"/h.js")})(MathJax.InputJax.MathML);
+//@license-end

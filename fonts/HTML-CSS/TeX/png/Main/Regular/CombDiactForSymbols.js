@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/fonts/HTML-CSS/TeX/png/Main/Regular/CombDiactForSymbols.js
  *  
@@ -14,3 +15,4 @@
 
 MathJax.OutputJax["HTML-CSS"].defineImageData({MathJax_Main:{8407:[[4,2,-3],[4,2,-4],[5,3,-5],[6,3,-6],[7,3,-7],[8,4,-8],[10,5,-9],[11,5,-12],[14,6,-14],[16,7,-17],[18,9,-20],[21,10,-24],[26,12,-28],[30,14,-33]]}});MathJax.Ajax.loadComplete(MathJax.OutputJax["HTML-CSS"].imgDir+"/Main/Regular"+MathJax.OutputJax["HTML-CSS"].imgPacked+"/CombDiactForSymbols.js");
 
+//@license-end

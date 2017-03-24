@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/ast/ast.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("ast",null,{menuTitle:"asturianu",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{CookieConfig:"MathJax alcontr\u00F3 una cookie de configuraci\u00F3n d'usuariu qu'incluye c\u00F3digu a executar. \u00BFQuier executar esi c\u00F3digu?\n\n(Tendr\u00EDa de calcar \u00ABEncaboxar\u00BB a menos que creara la cookie vust\u00E9 mesmu.)",MathProcessingError:"Error de procesamientu matem\u00E1ticu",MathError:"Error matem\u00E1ticu",LoadFile:"Cargando %1",Loading:"Cargando",LoadFailed:"Fall\u00F3 la carga del ficheru: %1",ProcessMath:"Procesando matem\u00E1tiques: %1%%",Processing:"Procesando",TypesetMath:"Escribiendo matem\u00E1tiques: %1%%",Typesetting:"Componiendo",MathJaxNotSupported:"El so navegador nun tien sofitu pa MathJax"}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){if(a===1){return 1}return 2},number:function(a){return a}});MathJax.Ajax.loadComplete("[MathJax]/localization/ast/ast.js");
+//@license-end

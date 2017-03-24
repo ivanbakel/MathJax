@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/pl/pl.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("pl",null,{menuTitle:"polski",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{CookieConfig:"MathJax znalaz\u0142 konfiguracj\u0119 zapisan\u0105 w ciasteczku, kt\u00F3ra zawiera kod do uruchomienia. Czy chcesz go uruchomi\u0107?\n\n(Powiniene\u015B nacisn\u0105\u0107 Anuluj, je\u015Bli to nie Ty stworzy\u0142e\u015B t\u0119 konfiguracj\u0119.)",MathProcessingError:"B\u0142\u0105d podczas przetwarzania wzor\u00F3w matematycznych",MathError:"B\u0142\u0105d we wzorze matematycznym",LoadFile:"\u0141aduj\u0119 %1",Loading:"\u0141aduj\u0119",LoadFailed:"Nie uda\u0142o si\u0119 za\u0142adowa\u0107 pliku: %1",ProcessMath:"Przetwarzam wzory matematyczne: %1%%",Processing:"Przetwarzam",TypesetMath:"Przetwarzam wzory matematyczne: %1%%",Typesetting:"Przetwarzam",MathJaxNotSupported:"Twoja przegl\u0105darka nie obs\u0142uguje MathJax"}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){if(a==1){return 1}else{if(a%10>=2&&a%10<=4&&(a%100<10||a%100>=20)){return 2}else{return 3}}},number:function(a){return String(a).replace(".",",")}});MathJax.Ajax.loadComplete("[MathJax]/localization/pl/pl.js");
+//@license-end

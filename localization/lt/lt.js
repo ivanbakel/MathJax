@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/lt/lt.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("lt",null,{menuTitle:"lietuvi\u0173",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{MathProcessingError:"Matematikos apdorojimo klaida",MathError:"Matematikos klaida",LoadFile:"\u012Ekeliama %1",Loading:"\u012Ekeliama",LoadFailed:"Nepavyko \u012Fkelti bylos: %1",ProcessMath:"Apdorojama matematika: %1%%",Processing:"Apdorojama",TypesetMath:"Renkami matematikos \u017Eenklai: %1%%",Typesetting:"\u017Denkl\u0173 rinkimas",MathJaxNotSupported:"J\u016Bs\u0173 nar\u0161ykl\u0117 \u201EMathJax\u201C nenumato"}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){if(a%10===1&&a%100!==11){return 1}else{if(a%10>=2&&a%10<=9&&(a%100<10||a%100>=20)){return 2}else{return 3}}},number:function(a){return a}});MathJax.Ajax.loadComplete("[MathJax]/localization/lt/lt.js");
+//@license-end

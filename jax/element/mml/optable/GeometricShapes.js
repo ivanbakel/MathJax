@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/element/mml/optable/GeometricShapes.js
  *
@@ -17,3 +18,4 @@
  */
 
 (function(a){var c=a.mo.OPTYPES;var b=a.TEXCLASS;MathJax.Hub.Insert(a.mo.prototype,{OPTABLE:{infix:{"\u25A0":c.BIN3,"\u25A1":c.BIN3,"\u25AA":c.BIN3,"\u25AB":c.BIN3,"\u25AD":c.BIN3,"\u25AE":c.BIN3,"\u25AF":c.BIN3,"\u25B0":c.BIN3,"\u25B1":c.BIN3,"\u25B2":c.BIN4,"\u25B4":c.BIN4,"\u25B6":c.BIN4,"\u25B7":c.BIN4,"\u25B8":c.BIN4,"\u25BC":c.BIN4,"\u25BE":c.BIN4,"\u25C0":c.BIN4,"\u25C1":c.BIN4,"\u25C2":c.BIN4,"\u25C4":c.BIN4,"\u25C5":c.BIN4,"\u25C6":c.BIN4,"\u25C7":c.BIN4,"\u25C8":c.BIN4,"\u25C9":c.BIN4,"\u25CC":c.BIN4,"\u25CD":c.BIN4,"\u25CE":c.BIN4,"\u25CF":c.BIN4,"\u25D6":c.BIN4,"\u25D7":c.BIN4,"\u25E6":c.BIN4}}});MathJax.Ajax.loadComplete(a.optableDir+"/GeometricShapes.js")})(MathJax.ElementJax.mml);
+//@license-end

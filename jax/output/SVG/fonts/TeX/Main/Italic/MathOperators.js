@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/output/SVG/fonts/TeX/Main/Italic/MathOperators.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Hub.Insert(MathJax.OutputJax.SVG.FONTDATA.FONTS["MathJax_Main-italic"],{8710:[716,0,818,70,751,""]});MathJax.Ajax.loadComplete(MathJax.OutputJax.SVG.fontDir+"/Main/Italic/MathOperators.js");
+//@license-end

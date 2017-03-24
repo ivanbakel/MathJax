@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/gl/gl.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("gl",null,{menuTitle:"galego",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{CookieConfig:'MathJax atopou unha cookie de configuraci\u00F3n de usuario que incl\u00FAe c\u00F3digo executable. Quere executar ese c\u00F3digo?\n\n(Deber\u00EDa premer en "Cancelar", a menos que vostede crease a cookie.)',MathProcessingError:"Erro de procesamento da f\u00F3rmula matem\u00E1tica",MathError:"Erro na f\u00F3rmula matem\u00E1tica",LoadFile:'Cargando "%1"',Loading:"Cargando",LoadFailed:"Erro ao cargar o ficheiro: %1",ProcessMath:"Procesando as f\u00F3rmulas: %1%%",Processing:"Procesando",TypesetMath:"Compo\u00F1endo as f\u00F3rmulas: %1%%",Typesetting:"Compo\u00F1endo",MathJaxNotSupported:"O seu navegador non soporta MathJax"}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){if(a===1){return 1}return 2},number:function(a){return a}});MathJax.Ajax.loadComplete("[MathJax]/localization/gl/gl.js");
+//@license-end

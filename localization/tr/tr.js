@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/tr/tr.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("tr",null,{menuTitle:"T\u00FCrk\u00E7e",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{MathProcessingError:"Matematik i\u015Fleme hatas\u0131",MathError:"Matematik hatas\u0131",LoadFile:"%1 Y\u00FCkleniyor",Loading:"Y\u00FCkleniyor",LoadFailed:"Dosya y\u00FCklenemedi: %1",ProcessMath:"Matematik i\u015Fleme: %%%1",MathJaxNotSupported:"Taray\u0131c\u0131n\u0131z MathJax'i desteklemiyor"}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){return 1},number:function(a){return a}});MathJax.Ajax.loadComplete("[MathJax]/localization/tr/tr.js");
+//@license-end

@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/de/de.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("de",null,{menuTitle:"Deutsch",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{CookieConfig:"MathJax hat eine Cookie mit ausf\u00FChrbaren Code gefunden. Soll dieser Code ausgef\u00FChrt werden?\n\n(Klicken Sie 'Abbrechen' falls Sie das Cookie nicht selber akzeptiert haben.)",MathProcessingError:"Fehler bei der Verarbeitung des mathematischen Ausdrucks",MathError:"Fehler im mathematischen Ausdruck",LoadFile:"Lade %1",Loading:"Lade",LoadFailed:"Datei konnte nicht geladen werden: %1",ProcessMath:"Verarbeite mathematischen Ausdruck: %1%%",Processing:"Verarbeite",TypesetMath:"mathematischer Ausdruck wird gesetzt: %1%%",Typesetting:"Formelsatz",MathJaxNotSupported:"Ihr Webbrowser unterst\u00FCtzt MathJax nicht"}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){if(a===1){return 1}return 2},number:function(a){return String(a).replace(".",",")}});MathJax.Ajax.loadComplete("[MathJax]/localization/de/de.js");
+//@license-end

@@ -1,3 +1,4 @@
+//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/output/HTML-CSS/fonts/TeX/Main/Bold/MiscSymbols.js
  *
@@ -17,3 +18,4 @@
  */
 
 MathJax.Hub.Insert(MathJax.OutputJax["HTML-CSS"].FONTDATA.FONTS["MathJax_Main-bold"],{9824:[719,129,894,64,829],9825:[711,24,894,65,828],9826:[719,154,894,64,828],9827:[719,129,894,32,861],9837:[750,17,447,64,381],9838:[741,223,447,57,389],9839:[724,224,447,63,382]});MathJax.Ajax.loadComplete(MathJax.OutputJax["HTML-CSS"].fontDir+"/Main/Bold/MiscSymbols.js");
+//@license-end
