@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/eo/eo.js
  *
@@ -18,4 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("eo",null,{menuTitle:"Esperanto",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{Loading:"\u015Cargado",LoadFailed:"\u015Cargado de dosiero malsukcesis: %1",ProcessMath:"Prilaborado de formulo: %1 %%",Processing:"Prilaborado",TypesetMath:"Kompostado de formulo: %1 %%",Typesetting:"Kompostado",MathJaxNotSupported:"Via krozilo ne subtenas Mathjax."}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){if(a===1){return 1}return 2},number:function(a){return a}});MathJax.Ajax.loadComplete("[MathJax]/localization/eo/eo.js");
-//@license-end
+// @license-end

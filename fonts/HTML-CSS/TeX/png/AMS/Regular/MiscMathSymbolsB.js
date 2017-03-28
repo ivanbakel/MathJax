@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/fonts/HTML-CSS/TeX/png/AMS/Regular/MiscMathSymbolsB.js
  *  
@@ -15,4 +15,4 @@
 
 MathJax.OutputJax["HTML-CSS"].defineImageData({MathJax_AMS:{10731:[[5,6,1],[6,8,2],[7,10,2],[8,11,2],[9,12,2],[11,15,3],[12,17,3],[15,21,4],[17,24,4],[21,29,5],[25,35,6],[29,41,7],[34,48,8],[41,57,9]]}});MathJax.Ajax.loadComplete(MathJax.OutputJax["HTML-CSS"].imgDir+"/AMS/Regular"+MathJax.OutputJax["HTML-CSS"].imgPacked+"/MiscMathSymbolsB.js");
 
-//@license-end
+// @license-end

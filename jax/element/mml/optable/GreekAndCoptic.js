@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/element/mml/optable/GreekAndCoptic.js
  *
@@ -18,4 +18,4 @@
  */
 
 (function(a){var c=a.mo.OPTYPES;var b=a.TEXCLASS;MathJax.Hub.Insert(a.mo.prototype,{OPTABLE:{infix:{"\u03F6":c.REL}}});MathJax.Ajax.loadComplete(a.optableDir+"/GreekAndCoptic.js")})(MathJax.ElementJax.mml);
-//@license-end
+// @license-end

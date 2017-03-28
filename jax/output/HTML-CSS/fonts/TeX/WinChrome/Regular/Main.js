@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/output/HTML-CSS/fonts/TeX/WinChrome/Regular/Main.js
  *
@@ -18,4 +18,4 @@
  */
 
 MathJax.OutputJax["HTML-CSS"].FONTDATA.FONTS.MathJax_WinChrome={directory:"WinChrome/Regular",family:"MathJax_WinChrome",testString:"> T d \u23A6 \u2A00",skew:{84:0.0278,58096:0.0319},32:[0,0,250,0,0],62:[540,40,778,83,694],84:[717,68,545,34,833],100:[694,11,511,101,567],160:[0,0,250,0,0],8899:[750,249,833,55,777],9126:[1155,644,667,0,347],10752:[949,449,1511,56,1454],58096:[720,69,644,38,947],58097:[587,85,894,96,797]};MathJax.Callback.Queue(["initFont",MathJax.OutputJax["HTML-CSS"],"MathJax_WinChrome"],["loadComplete",MathJax.Ajax,MathJax.OutputJax["HTML-CSS"].fontDir+"/WinChrome/Regular/Main.js"]);
-//@license-end
+// @license-end

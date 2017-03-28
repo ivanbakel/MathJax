@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/sco/HTML-CSS.js
  *
@@ -18,4 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("sco","HTML-CSS",{version:"2.7.0",isLoaded:true,strings:{LoadWebFont:"Laidin wab font %1",CantLoadWebFont:"Canna laid wab font %1",FirefoxCantLoadWebFont:"Firefox canna laid wab fonts fae ae remote host",CantFindFontUsing:"Canna fynd ae valid font uisin %1",WebFontsNotAvailable:"Wab fonts no available. Uisin eimage fonts instead"}});MathJax.Ajax.loadComplete("[MathJax]/localization/sco/HTML-CSS.js");
-//@license-end
+// @license-end

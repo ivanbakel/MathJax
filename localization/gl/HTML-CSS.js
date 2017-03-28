@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/gl/HTML-CSS.js
  *
@@ -18,4 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("gl","HTML-CSS",{version:"2.7.0",isLoaded:true,strings:{LoadWebFont:"Cargando o tipo de letra web %1",CantLoadWebFont:"Non se pode cargar o tipo de letra web %1",FirefoxCantLoadWebFont:"Firefox non pode cargar os tipos de letra web desde un servidor remoto",CantFindFontUsing:"Non se pode atopar un tipo de letra v\u00E1lido utilizando %1",WebFontsNotAvailable:"Os tipos de letra web non est\u00E1n dispo\u00F1ibles; use os tipos de letra de imaxe no seu lugar"}});MathJax.Ajax.loadComplete("[MathJax]/localization/gl/HTML-CSS.js");
-//@license-end
+// @license-end

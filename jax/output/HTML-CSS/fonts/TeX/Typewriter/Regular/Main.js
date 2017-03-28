@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/output/HTML-CSS/fonts/TeX/Typewriter/Regular/Main.js
  *
@@ -18,4 +18,4 @@
  */
 
 MathJax.OutputJax["HTML-CSS"].FONTDATA.FONTS.MathJax_Typewriter={directory:"Typewriter/Regular",family:"MathJax_Typewriter",testString:"MathJax Typewriter |",Ranges:[[0,127,"BasicLatin"],[128,65535,"Other"],[768,879,"CombDiacritMarks"]]};MathJax.Callback.Queue(["initFont",MathJax.OutputJax["HTML-CSS"],"MathJax_Typewriter"],["loadComplete",MathJax.Ajax,MathJax.OutputJax["HTML-CSS"].fontDir+"/Typewriter/Regular/Main.js"]);
-//@license-end
+// @license-end

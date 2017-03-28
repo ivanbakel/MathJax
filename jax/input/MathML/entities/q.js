@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/input/MathML/entities/q.js
  *
@@ -18,4 +18,4 @@
  */
 
 (function(a){MathJax.Hub.Insert(a.Parse.Entity,{QUOT:"\u0022",qint:"\u2A0C",qprime:"\u2057",quaternions:"\u210D",quatint:"\u2A16",quest:"\u003F",questeq:"\u225F",quot:"\u0022"});MathJax.Ajax.loadComplete(a.entityDir+"/q.js")})(MathJax.InputJax.MathML);
-//@license-end
+// @license-end

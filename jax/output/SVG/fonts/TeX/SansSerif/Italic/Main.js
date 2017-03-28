@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/output/SVG/fonts/TeX/SansSerif/Italic/Main.js
  *
@@ -18,4 +18,4 @@
  */
 
 MathJax.OutputJax.SVG.FONTDATA.FONTS["MathJax_SansSerif-italic"]={directory:"SansSerif/Italic",family:"MathJax_SansSerif",id:"MJSSI",style:"italic",Ranges:[[0,127,"BasicLatin"],[128,65535,"Other"],[768,879,"CombDiacritMarks"]]};MathJax.Ajax.loadComplete(MathJax.OutputJax.SVG.fontDir+"/SansSerif/Italic/Main.js");
-//@license-end
+// @license-end

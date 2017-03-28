@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /* -*- Mode: Javascript; indent-tabs-mode:nil; js-indent-level: 2 -*- */
 /* vim: set ts=2 et sw=2 tw=80: */
 
@@ -82,4 +82,4 @@ MathJax.Callback.Queue(
   ["Require",MathJax.Ajax,"[MathJax]/extensions/TeX/AMSsymbols.js"],
   ["loadComplete",MathJax.Ajax,"[MathJax]/extensions/TeX/autoload-all.js"]
 );
-//@license-end
+// @license-end

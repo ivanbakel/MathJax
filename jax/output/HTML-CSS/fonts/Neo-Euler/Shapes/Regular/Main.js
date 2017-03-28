@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/output/HTML-CSS/fonts/Neo-Euler/Shapes/Regular/Main.js
  *
@@ -18,4 +18,4 @@
  */
 
 MathJax.OutputJax["HTML-CSS"].FONTDATA.FONTS.NeoEulerMathJax_Shapes={directory:"Shapes/Regular",family:"NeoEulerMathJax_Shapes",testString:"\u00A0\u2B1A",32:[0,0,333,0,0],160:[0,0,333,0,0],11034:[690,6,816,60,756]};MathJax.Callback.Queue(["initFont",MathJax.OutputJax["HTML-CSS"],"NeoEulerMathJax_Shapes"],["loadComplete",MathJax.Ajax,MathJax.OutputJax["HTML-CSS"].fontDir+"/Shapes/Regular/Main.js"]);
-//@license-end
+// @license-end

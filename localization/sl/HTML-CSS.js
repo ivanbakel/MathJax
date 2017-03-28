@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/sl/HTML-CSS.js
  *
@@ -18,4 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("sl","HTML-CSS",{version:"2.7.0",isLoaded:true,strings:{LoadWebFont:"Nalagam spletni font %1",CantLoadWebFont:"Spletne pisave %1 ni mogo\u010De nalo\u017Eiti",FirefoxCantLoadWebFont:"Firefox ne more nalo\u017Eiti spletnih pisav na oddaljenem gostitelju.",CantFindFontUsing:"Z uporabo %1 ne morem najti veljavne pisave.",WebFontsNotAvailable:"Web-Fonts niso na razpolago. Namesto njih uporabljam slikovne pisave."}});MathJax.Ajax.loadComplete("[MathJax]/localization/sl/HTML-CSS.js");
-//@license-end
+// @license-end

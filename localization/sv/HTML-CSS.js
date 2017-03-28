@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/localization/sv/HTML-CSS.js
  *
@@ -18,4 +18,4 @@
  */
 
 MathJax.Localization.addTranslation("sv","HTML-CSS",{version:"2.7.0",isLoaded:true,strings:{LoadWebFont:"L\u00E4ser in webbtypsnittet %1",CantLoadWebFont:"Kan inte l\u00E4sa in webbtypsnittet %1",FirefoxCantLoadWebFont:"Firefox kan inte l\u00E4sa in webbteckensnitt fr\u00E5n en fj\u00E4rrv\u00E4rd",CantFindFontUsing:"Kan inte hitta ett giltigt teckensnitt med hj\u00E4lp av %1",WebFontsNotAvailable:"Webbtypsnitt \u00E4r inte tillg\u00E4ngliga. Anv\u00E4nder bildtypsnitt ist\u00E4llet"}});MathJax.Ajax.loadComplete("[MathJax]/localization/sv/HTML-CSS.js");
-//@license-end
+// @license-end

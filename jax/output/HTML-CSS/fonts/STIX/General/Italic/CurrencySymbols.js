@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/output/HTML-CSS/fonts/STIX/General/Italic/CurrencySymbols.js
  *
@@ -18,4 +18,4 @@
  */
 
 MathJax.Hub.Insert(MathJax.OutputJax["HTML-CSS"].FONTDATA.FONTS["STIXGeneral-italic"],{8355:[653,0,611,8,645],8356:[670,8,500,10,517],8359:[653,13,1149,0,1126],8364:[664,12,500,16,538]});MathJax.Ajax.loadComplete(MathJax.OutputJax["HTML-CSS"].fontDir+"/General/Italic/CurrencySymbols.js");
-//@license-end
+// @license-end

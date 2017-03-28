@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*
  *  /MathJax/jax/output/HTML-CSS/fonts/STIX/General/Regular/LatinExtendedAdditional.js
  *
@@ -18,4 +18,4 @@
  */
 
 MathJax.Hub.Insert(MathJax.OutputJax["HTML-CSS"].FONTDATA.FONTS.STIXGeneral,{7808:[890,11,944,5,932],7809:[678,14,722,21,694],7810:[890,11,944,5,932],7811:[678,14,722,21,694],7812:[834,11,944,5,932],7813:[622,14,722,21,694],7922:[890,0,722,22,703],7923:[678,218,500,14,475]});MathJax.Ajax.loadComplete(MathJax.OutputJax["HTML-CSS"].fontDir+"/General/Regular/LatinExtendedAdditional.js");
-//@license-end
+// @license-end

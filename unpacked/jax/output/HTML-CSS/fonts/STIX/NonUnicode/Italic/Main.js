@@ -1,4 +1,4 @@
-//@license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+// @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
 /*************************************************************
  *
  *  MathJax/jax/output/HTML-CSS/fonts/STIX/NonUnicode/Italic/Main.js
@@ -59,4 +59,4 @@ MathJax.OutputJax['HTML-CSS'].FONTDATA.FONTS['STIXNonUnicode-italic'] = {
 MathJax.OutputJax["HTML-CSS"].initFont("STIXNonUnicode-italic");
 
 MathJax.Ajax.loadComplete(MathJax.OutputJax["HTML-CSS"].fontDir + "/NonUnicode/Italic/Main.js");
-//@license-end
+// @license-end
