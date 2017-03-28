@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/jax/input/MathML/entities/w.js
  *
@@ -19,3 +20,4 @@
 
 (function(a){MathJax.Hub.Insert(a.Parse.Entity,{Wcirc:"\u0174",wcirc:"\u0175",wedbar:"\u2A5F",wedge:"\u2227",wedgeq:"\u2259",wp:"\u2118",wr:"\u2240",wreath:"\u2240"});MathJax.Ajax.loadComplete(a.entityDir+"/w.js")})(MathJax.InputJax.MathML);
 // @license-end
+

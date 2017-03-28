@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/jax/input/MathML/config.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.InputJax.MathML=MathJax.InputJax({id:"MathML",version:"2.7.0",directory:MathJax.InputJax.directory+"/MathML",extensionDir:MathJax.InputJax.extensionDir+"/MathML",entityDir:MathJax.InputJax.directory+"/MathML/entities",config:{useMathMLspacing:false}});MathJax.InputJax.MathML.Register("math/mml");MathJax.InputJax.MathML.loadComplete("config.js");
 // @license-end
+

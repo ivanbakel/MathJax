@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/localization/sl/sl.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Localization.addTranslation("sl",null,{menuTitle:"sloven\u0161\u010Dina",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{CookieConfig:"MathJax je na\u0161el pi\u0161kotek za uporabni\u0161ko konfiguracijo, ki vklju\u010Duje kodo za zagon. Ali jo \u017Eelite zagnati?\n\n(Pritisnite Prekli\u010Di, razen \u010De ste pi\u0161kotek sami nastavili.)",MathProcessingError:"Napaka pri obdelavi matematike",MathError:"Napaka v matemati\u010Dni formuli",LoadFile:"Nalagam %1",Loading:"Nalagam",LoadFailed:"Datoteka se ni nalo\u017Eila: %1",ProcessMath:"Obdelava matematike: %1%%",Processing:"Obdelujem",TypesetMath:"Stavljenje matematike: %1%%",Typesetting:"Stavljenje",MathJaxNotSupported:"Va\u0161 brskalnik ne podpira MathJax"}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){if(a%100===1){return 1}if(a%100===2){return 2}if(3<=a%100&&a%100<=4){return 3}return 4},number:function(a){return a}});MathJax.Ajax.loadComplete("[MathJax]/localization/sl/sl.js");
 // @license-end
+

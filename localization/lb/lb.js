@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/localization/lb/lb.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Localization.addTranslation("lb",null,{menuTitle:"L\u00EBtzebuergesch",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{MathError:"Math Feeler",LoadFile:"%1 lueden",Loading:"Lueden",LoadFailed:"De Fichier konnt net geluede ginn: %1",Processing:"Verschaffen",MathJaxNotSupported:"\u00C4re browser \u00EBnnerst\u00EBtzt MathJax net"}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){if(a===1){return 1}return 2},number:function(a){return a}});MathJax.Ajax.loadComplete("[MathJax]/localization/lb/lb.js");
 // @license-end
+

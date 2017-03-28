@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/localization/da/da.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Localization.addTranslation("da",null,{menuTitle:"dansk",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{CookieConfig:"MathJax har fundet en cookie med brugerkonfiguration, der indeholder kode til at k\u00F8re. Vil du k\u00F8re det?\n\n(Du b\u00F8r trykke p\u00E5 Annuller, medmindre du oprettede cookien selv.)",MathProcessingError:"Fejl under bearbejdning af matematik",MathError:"Matematikfejl",LoadFile:"Indl\u00E6ser %1",Loading:"Indl\u00E6ser",LoadFailed:"Kunne ikke indl\u00E6se filen: %1",ProcessMath:"Bearbejder matematik: %1%%",Processing:"Bearbejder",TypesetMath:"Ops\u00E6tter matematik: %1%%",Typesetting:"Ops\u00E6tter",MathJaxNotSupported:"Din browser underst\u00F8tter ikke MathJax"}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){if(a===1){return 1}return 2},number:function(a){return a}});MathJax.Ajax.loadComplete("[MathJax]/localization/da/da.js");
 // @license-end
+

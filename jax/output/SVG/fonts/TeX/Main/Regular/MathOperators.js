@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/jax/output/SVG/fonts/TeX/Main/Regular/MathOperators.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Hub.Insert(MathJax.OutputJax.SVG.FONTDATA.FONTS.MathJax_Main,{8710:[716,0,833,46,786,""]});MathJax.Ajax.loadComplete(MathJax.OutputJax.SVG.fontDir+"/Main/Regular/MathOperators.js");
 // @license-end
+

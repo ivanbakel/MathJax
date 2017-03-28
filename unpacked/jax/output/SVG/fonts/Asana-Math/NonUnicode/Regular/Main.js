@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*************************************************************
  *
  *  MathJax/jax/output/SVG/fonts/Asana-Math/NonUnicode/Regular/Main.js
@@ -307,3 +308,4 @@ MathJax.OutputJax['SVG'].FONTDATA.FONTS['AsanaMathJax_NonUnicode'] = {
 
 MathJax.Ajax.loadComplete(MathJax.OutputJax.SVG.fontDir+"/NonUnicode/Regular/Main.js");
 // @license-end
+

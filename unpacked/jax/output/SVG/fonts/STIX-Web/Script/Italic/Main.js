@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*************************************************************
  *
  *  MathJax/jax/output/SVG/fonts/STIX-Web/Script/Italic/Main.js
@@ -81,3 +82,4 @@ MathJax.OutputJax['SVG'].FONTDATA.FONTS['STIXMathJax_Script-italic'] = {
 
 MathJax.Ajax.loadComplete(MathJax.OutputJax.SVG.fontDir+"/Script/Italic/Main.js");
 // @license-end
+

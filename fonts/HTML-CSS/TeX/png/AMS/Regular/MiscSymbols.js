@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/fonts/HTML-CSS/TeX/png/AMS/Regular/MiscSymbols.js
  *  
@@ -16,3 +17,4 @@
 MathJax.OutputJax["HTML-CSS"].defineImageData({MathJax_AMS:{9733:[[7,6,1],[8,7,1],[9,9,2],[11,11,2],[13,12,2],[15,14,2],[18,17,3],[21,20,3],[25,24,4],[30,27,4],[36,33,5],[42,39,6],[50,46,7],[60,54,8]]}});MathJax.Ajax.loadComplete(MathJax.OutputJax["HTML-CSS"].imgDir+"/AMS/Regular"+MathJax.OutputJax["HTML-CSS"].imgPacked+"/MiscSymbols.js");
 
 // @license-end
+

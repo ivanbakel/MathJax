@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/fonts/HTML-CSS/TeX/png/AMS/Regular/EnclosedAlphanum.js
  *  
@@ -16,3 +17,4 @@
 MathJax.OutputJax["HTML-CSS"].defineImageData({MathJax_AMS:{9416:[[7,6,1],[8,8,2],[9,9,2],[11,10,2],[13,12,2],[15,15,3],[18,17,3],[21,20,4],[25,24,5],[30,29,6],[35,34,7],[42,41,8],[50,49,10],[59,58,12]]}});MathJax.Ajax.loadComplete(MathJax.OutputJax["HTML-CSS"].imgDir+"/AMS/Regular"+MathJax.OutputJax["HTML-CSS"].imgPacked+"/EnclosedAlphanum.js");
 
 // @license-end
+

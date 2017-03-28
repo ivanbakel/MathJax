@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/localization/pt/pt.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Localization.addTranslation("pt",null,{menuTitle:"portugu\u00EAs",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{MathProcessingError:"Erro no processamento das f\u00F3rmulas",MathError:"Erro de matem\u00E1tica",LoadFile:"A carregar %1",Loading:"A carregar",LoadFailed:"O ficheiro n\u00E3o pode ser carregado: %1",ProcessMath:"A processar f\u00F3rmula: %1%%",Processing:"A processar",TypesetMath:"A formatar f\u00F3rmulas: %1%%",Typesetting:"A formatar",MathJaxNotSupported:"O seu navegador n\u00E3o suporta MathJax"}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){if(a===1){return 1}return 2},number:function(a){return String(a).replace(".",",")}});MathJax.Ajax.loadComplete("[MathJax]/localization/pt/pt.js");
 // @license-end
+

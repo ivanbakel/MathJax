@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/jax/output/PreviewHTML/config.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.OutputJax.PreviewHTML=MathJax.OutputJax({id:"PreviewHTML",version:"2.7.0",directory:MathJax.OutputJax.directory+"/PreviewHTML",extensionDir:MathJax.OutputJax.extensionDir+"/PreviewHTML",noFastPreview:true,config:{scale:100,minScaleAdjust:50,mtextFontInherit:false,linebreaks:{automatic:false,width:"container"}}});if(!MathJax.Hub.config.delayJaxRegistration){MathJax.OutputJax.PreviewHTML.Register("jax/mml")}MathJax.OutputJax.PreviewHTML.loadComplete("config.js");
 // @license-end
+

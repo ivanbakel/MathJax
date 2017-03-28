@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/jax/input/AsciiMath/config.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.InputJax.AsciiMath=MathJax.InputJax({id:"AsciiMath",version:"2.7.0",directory:MathJax.InputJax.directory+"/AsciiMath",extensionDir:MathJax.InputJax.extensionDir+"/AsciiMath",config:{fixphi:true,useMathMLspacing:true,displaystyle:true,decimalsign:"."}});MathJax.InputJax.AsciiMath.Register("math/asciimath");MathJax.InputJax.AsciiMath.loadComplete("config.js");
 // @license-end
+

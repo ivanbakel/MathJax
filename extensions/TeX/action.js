@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/extensions/TeX/action.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Extension["TeX/action"]={version:"2.7.0"};MathJax.Hub.Register.StartupHook("TeX Jax Ready",function(){var b=MathJax.InputJax.TeX,a=MathJax.ElementJax.mml;b.Definitions.Add({macros:{toggle:"Toggle",mathtip:"Mathtip",texttip:["Macro","\\mathtip{#1}{\\text{#2}}",2]}},null,true);b.Parse.Augment({Toggle:function(d){var e=[],c;while((c=this.GetArgument(d))!=="\\endtoggle"){e.push(b.Parse(c,this.stack.env).mml())}this.Push(a.maction.apply(a,e).With({actiontype:a.ACTIONTYPE.TOGGLE}))},Mathtip:function(d){var c=this.ParseArg(d),e=this.ParseArg(d);this.Push(a.maction(c,e).With({actiontype:a.ACTIONTYPE.TOOLTIP}))}});MathJax.Hub.Startup.signal.Post("TeX action Ready")});MathJax.Ajax.loadComplete("[MathJax]/extensions/TeX/action.js");
 // @license-end
+

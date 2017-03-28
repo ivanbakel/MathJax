@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/jax/output/HTML-CSS/fonts/Neo-Euler/Arrows/Regular/Main.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.OutputJax["HTML-CSS"].FONTDATA.FONTS.NeoEulerMathJax_Arrows={directory:"Arrows/Regular",family:"NeoEulerMathJax_Arrows",testString:"\u00A0\u21A4\u27FB\u27FD\u27FE",32:[0,0,333,0,0],160:[0,0,333,0,0],8612:[500,0,1000,56,944],10235:[500,0,1690,56,1634],10237:[598,98,1700,76,1643],10238:[598,98,1700,75,1643]};MathJax.Callback.Queue(["initFont",MathJax.OutputJax["HTML-CSS"],"NeoEulerMathJax_Arrows"],["loadComplete",MathJax.Ajax,MathJax.OutputJax["HTML-CSS"].fontDir+"/Arrows/Regular/Main.js"]);
 // @license-end
+

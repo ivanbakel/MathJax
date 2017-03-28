@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/localization/ast/HTML-CSS.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Localization.addTranslation("ast","HTML-CSS",{version:"2.7.0",isLoaded:true,strings:{LoadWebFont:"Cargando la tipograf\u00EDa web %1",CantLoadWebFont:"Non pue cargase la tipograf\u00EDa web %1",FirefoxCantLoadWebFont:"Firefox nun pue cargar les tipograf\u00EDes web dende un sirvidor remotu",CantFindFontUsing:"Nun se pue atopar una tipograf\u00EDa v\u00E1lida usando %1",WebFontsNotAvailable:"Les tipograf\u00EDes web nun tan disponibles. Usando les tipograf\u00EDes d'imaxe nel so llugar"}});MathJax.Ajax.loadComplete("[MathJax]/localization/ast/HTML-CSS.js");
 // @license-end
+

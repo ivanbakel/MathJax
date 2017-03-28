@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/jax/output/HTML-CSS/fonts/TeX/AMS/Regular/EnclosedAlphanum.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Hub.Insert(MathJax.OutputJax["HTML-CSS"].FONTDATA.FONTS.MathJax_AMS,{9416:[709,175,902,8,894]});MathJax.Ajax.loadComplete(MathJax.OutputJax["HTML-CSS"].fontDir+"/AMS/Regular/EnclosedAlphanum.js");
 // @license-end
+

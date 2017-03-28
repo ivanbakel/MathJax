@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/jax/element/mml/optable/MiscTechnical.js
  *
@@ -19,3 +20,4 @@
 
 (function(a){var c=a.mo.OPTYPES;var b=a.TEXCLASS;MathJax.Hub.Insert(a.mo.prototype,{OPTABLE:{postfix:{"\u23B4":c.WIDEACCENT,"\u23B5":c.WIDEACCENT,"\u23DC":c.WIDEACCENT,"\u23DD":c.WIDEACCENT,"\u23E0":c.WIDEACCENT,"\u23E1":c.WIDEACCENT}}});MathJax.Ajax.loadComplete(a.optableDir+"/MiscTechnical.js")})(MathJax.ElementJax.mml);
 // @license-end
+

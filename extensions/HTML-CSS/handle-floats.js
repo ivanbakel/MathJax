@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/extensions/HTML-CSS/handle-floats.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Extension["HTML-CSS/handle-floats"]={version:"2.7.0"};MathJax.Hub.Startup.signal.Post("HTML-CSS handle-floats Ready");MathJax.Ajax.loadComplete("[MathJax]/extensions/HTML-CSS/handle-floats.js");
 // @license-end
+

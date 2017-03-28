@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/localization/nl/HTML-CSS.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Localization.addTranslation("nl","HTML-CSS",{version:"2.7.0",isLoaded:true,strings:{LoadWebFont:"Weblettertype %1 aan het laden",CantLoadWebFont:"Het weblettertype %1 kan niet geladen worden.",FirefoxCantLoadWebFont:"Firefox kan geen web-lettertypes laden van een externe host",CantFindFontUsing:"Kan met gebruik van %1 geen geldig lettertype vinden",WebFontsNotAvailable:"Weblettertypes zijn niet beschikbaar. In plaats daarvan worden afbeeldingslettertypes gebruikt"}});MathJax.Ajax.loadComplete("[MathJax]/localization/nl/HTML-CSS.js");
 // @license-end
+

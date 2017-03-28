@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/localization/pl/HTML-CSS.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Localization.addTranslation("pl","HTML-CSS",{version:"2.7.0",isLoaded:true,strings:{LoadWebFont:"\u0141aduj\u0119 czcionk\u0119 %1",CantLoadWebFont:"Nie mo\u017Cna za\u0142adowa\u0107 czcionki %1",FirefoxCantLoadWebFont:"Firefox nie mo\u017Ce za\u0142adowa\u0107 czcionek ze zdalnego hosta",CantFindFontUsing:"Nie mo\u017Cna znale\u017A\u0107 w\u0142a\u015Bciwej czcionki u\u017Cywaj\u0105c %1",WebFontsNotAvailable:"Czcionki internetowe nie dost\u0119pne - zamiast tego u\u017Cywane s\u0105 czcionki obrazkowe"}});MathJax.Ajax.loadComplete("[MathJax]/localization/pl/HTML-CSS.js");
 // @license-end
+

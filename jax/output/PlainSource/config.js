@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/jax/output/PlainSource/config.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.OutputJax.PlainSource=MathJax.OutputJax({id:"PlainSource",version:"2.7.0",directory:MathJax.OutputJax.directory+"/PlainSource",extensionDir:MathJax.OutputJax.extensionDir+"/PlainSource",config:{styles:{".MathJax_PlainSource_Display":{"text-align":"center",margin:".75em 0px","white-space":"pre"},".MathJax_PlainSource_Display > span":{display:"inline-block","text-align":"left"}}}});if(!MathJax.Hub.config.delayJaxRegistration){MathJax.OutputJax.PlainSource.Register("jax/mml")}MathJax.OutputJax.PlainSource.loadComplete("config.js");
 // @license-end
+

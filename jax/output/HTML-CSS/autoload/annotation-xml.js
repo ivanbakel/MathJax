@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/jax/output/HTML-CSS/autoload/annotation-xml.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Hub.Register.StartupHook("HTML-CSS Jax Ready",function(){var c="2.7.0";var a=MathJax.ElementJax.mml,b=MathJax.OutputJax["HTML-CSS"];a["annotation-xml"].Augment({toHTML:function(f){f=this.HTMLhandleSize(this.HTMLcreateSpan(f));var g=this.Get("encoding");for(var e=0,d=this.data.length;e<d;e++){this.data[e].toHTML(f,g)}this.HTMLhandleSpace(f);this.HTMLhandleColor(f);return f},HTMLgetScale:function(){return this.SUPER(arguments).HTMLgetScale.call(this)/b.scale}});a.xml.Augment({toHTML:function(f,g){for(var e=0,d=this.data.length;e<d;e++){f.appendChild(this.data[e].cloneNode(true))}var j=f.bbox;f.bbox=null;j.rw=j.w=b.getW(f);var h=b.getHD(f);j.h=h.h;j.d=h.d;f.bbox=j}});MathJax.Hub.Startup.signal.Post("HTML-CSS annotation-xml Ready");MathJax.Ajax.loadComplete(b.autoloadDir+"/annotation-xml.js")});
 // @license-end
+

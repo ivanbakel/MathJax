@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/jax/output/HTML-CSS/autoload/ms.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Hub.Register.StartupHook("HTML-CSS Jax Ready",function(){var c="2.7.0";var a=MathJax.ElementJax.mml,b=MathJax.OutputJax["HTML-CSS"];a.ms.Augment({toHTML:function(e){e=this.HTMLhandleSize(this.HTMLcreateSpan(e));var d=this.getValues("lquote","rquote","mathvariant");if(!this.hasValue("lquote")||d.lquote==='"'){d.lquote="\u201C"}if(!this.hasValue("rquote")||d.rquote==='"'){d.rquote="\u201D"}if(d.lquote==="\u201C"&&d.mathvariant==="monospace"){d.lquote='"'}if(d.rquote==="\u201D"&&d.mathvariant==="monospace"){d.rquote='"'}var f=d.lquote+this.data.join("")+d.rquote;this.HTMLhandleVariant(e,this.HTMLgetVariant(),f);this.HTMLhandleSpace(e);this.HTMLhandleColor(e);this.HTMLhandleDir(e);return e}});MathJax.Hub.Startup.signal.Post("HTML-CSS ms Ready");MathJax.Ajax.loadComplete(b.autoloadDir+"/ms.js")});
 // @license-end
+

@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/localization/scn/HTML-CSS.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Localization.addTranslation("scn","HTML-CSS",{version:"2.7.0",isLoaded:true,strings:{LoadWebFont:"Scarricamentu d\u00FB tipu di car\u00E0ttiri web %1",CantLoadWebFont:"Nun si potti scarricari lu tipu di car\u00E0ttiri web %1",FirefoxCantLoadWebFont:"Firefox nun p\u00F2 scarricari tipi di car\u00E0ttiri web di n'host rimotu",CantFindFontUsing:"Nun si potti attruvari nu tipu di car\u00E0ttiri bonu tra %1",WebFontsNotAvailable:"Li tipi di car\u00E0ttiri web nun sunnu dispun\u00ECbbili, \u00F4 s\u00F2 postu s'ad\u00F2piranu mm\u00E0ggini fatti a tipu di car\u00E0ttiri"}});MathJax.Ajax.loadComplete("[MathJax]/localization/scn/HTML-CSS.js");
 // @license-end
+

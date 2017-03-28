@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/jax/output/HTML-CSS/fonts/STIX/General/Regular/SupplementalArrowsA.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Hub.Insert(MathJax.OutputJax["HTML-CSS"].FONTDATA.FONTS.STIXGeneral,{10224:[662,156,1033,69,965],10225:[662,156,1033,69,965],10226:[626,116,974,54,882],10227:[626,116,974,92,920],10228:[569,61,1200,52,1147],10237:[551,45,1574,55,1519],10238:[551,45,1574,55,1519],10239:[449,-58,1574,55,1519]});MathJax.Ajax.loadComplete(MathJax.OutputJax["HTML-CSS"].fontDir+"/General/Regular/SupplementalArrowsA.js");
 // @license-end
+

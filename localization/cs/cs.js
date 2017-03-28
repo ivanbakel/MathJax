@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*
  *  /MathJax/localization/cs/cs.js
  *
@@ -19,3 +20,4 @@
 
 MathJax.Localization.addTranslation("cs",null,{menuTitle:"\u010De\u0161tina",version:"2.7.0",isLoaded:true,domains:{_:{version:"2.7.0",isLoaded:true,strings:{CookieConfig:"MathJax nalezl cookie u\u017Eivatelsk\u00E9 konfigurace obsahuj\u00EDc\u00ED spustiteln\u00FD k\u00F3d. Chcete ho spustit?\n\n(Pokud jste cookie nenastavili sami, m\u011Bli byste stisknout Storno.)",MathProcessingError:"Chyba zpracov\u00E1n\u00ED matematiky",MathError:"Chyba matematiky",LoadFile:"Na\u010D\u00EDt\u00E1 se %1",Loading:"Na\u010D\u00EDt\u00E1 se",LoadFailed:"Nepoda\u0159ilo se na\u010D\u00EDst soubor: %1",ProcessMath:"Zpracov\u00E1v\u00E1 se matematika: %1 %%",Processing:"Zpracov\u00E1v\u00E1 se",TypesetMath:"S\u00E1z\u00ED se matematika: %1 %%",Typesetting:"S\u00E1z\u00ED se",MathJaxNotSupported:"V\u00E1\u0161 prohl\u00ED\u017Ee\u010D nepodporuje MathJax"}},FontWarnings:{},"HTML-CSS":{},HelpDialog:{},MathML:{},MathMenu:{},TeX:{}},plural:function(a){if(a===1){return 1}if(a===2||a===3||a===4){return 2}return 3},number:function(a){return String(a).replace(".",",")}});MathJax.Ajax.loadComplete("[MathJax]/localization/cs/cs.js");
 // @license-end
+

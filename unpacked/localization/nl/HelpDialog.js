@@ -1,4 +1,5 @@
 // @license magnet:?xt=urn:btih:8e4f440f4c65981c5bf93c76d35135ba5064d8b7&dn=apache-2.0.txt Apache-2.0
+
 /*************************************************************
  *
  *  MathJax/localization/nl/HelpDialog.js
@@ -37,3 +38,4 @@ MathJax.Localization.addTranslation("nl","HelpDialog",{
 
 MathJax.Ajax.loadComplete("[MathJax]/localization/nl/HelpDialog.js");
 // @license-end
+
